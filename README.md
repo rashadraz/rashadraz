@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://images7.memedroid.com/images/UPLOADED257/63b0e0945384c.webp" width="512px"/>
+<img src="https://images7.memedroid.com/images/UPLOADED257/63b0e0945384c.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rashadraz&icon=0&color=7)](https://visitcount.itsvg.in)
