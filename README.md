@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://i.redd.it/gc2m1tdq22w81.jpg" width="512px"/>
+<img src="[https://i.redd.it/gc2m1tdq22w81.jpg](https://res.cloudinary.com/daily-now/image/upload/s--62Wmm8Iw--/f_auto/v1713410872/posts/PrnLGOwEp)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rashadraz&icon=0&color=7)](https://visitcount.itsvg.in)
